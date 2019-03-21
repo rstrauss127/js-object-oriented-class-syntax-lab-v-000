@@ -5,7 +5,7 @@ class BoardMember {
     this.traing = training;
   }
 
-  veto {
+  function veto {
     return "No, I must disagree";
   }
 }
