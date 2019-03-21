@@ -4,4 +4,8 @@ class BoardMember {
     this.homeState = homeState;
     this.traing = training;
   }
+
+  veto {
+    return "No, I must disagree";
+  }
 }
