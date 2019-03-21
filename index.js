@@ -3,7 +3,7 @@ class BoardMember {
     this.name = name;
     this.homeState = homeState;
     this.traing = training;
-  }
+  };
 
   veto {
     return "No, I must disagree";
